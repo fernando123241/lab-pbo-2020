@@ -1,0 +1,33 @@
+#BlueJ class context
+comment0.target=Bus
+comment1.params=
+comment1.target=Bus()
+comment1.text=\r\n\ Penampungan\ penumpang\ biasa,\ prioritas\ dan\ total\r\n
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment10.text=\r\n\ mencetak\ daftar\ nama\ Penumpang\ Biasa,\ Penumpang\r\n\ Prioritas,\ dan\ Jumlah\ semua\ penumpang\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getPenumpangBiasa()
+comment2.text=\r\n\ mengembalikan\ list\ penumpang\ biasa\ yang\ diminta.\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getPenumpangPrioritas()
+comment3.text=\r\n\ mengembalikan\ list\ penumpang\ prioritas\ yang\ diminta.\r\n
+comment4.params=
+comment4.target=int\ getJumlahPenumpangBiasa()
+comment4.text=\r\n\ +\ getJumlahPenumpangBiasa()\:\ int\r\n\ \ mengembalikan\ jumlah\ penumpang\ biasa\ yang\ diminta.\r\n
+comment5.params=
+comment5.target=int\ getJumlahPenumpangPrioritas()
+comment5.text=\r\n\ +\ getJumlahPenumpangPrioritas()\:\ int\r\n\ \ mengembalikan\ jumlah\ penumpang\ prioritas\ yang\ diminta.\r\n
+comment6.params=
+comment6.target=int\ getJumlahTotalPenumpang()
+comment6.text=\r\n\ total\ penumpang\ \=\ penumpang\ biasa\ +\ penumpang\ prioritas\r\n
+comment7.params=penumpang
+comment7.target=boolean\ naikPenumpang(Penumpang)
+comment7.text=\r\n\ +\ NaikPenumpang(penumpang\:\ Penumpang)\:\ boolean\r\n
+comment8.params=name
+comment8.target=boolean\ turunkanPenumpang(java.lang.String)
+comment8.text=\r\n\ +\ turunkanPenumpang(nama\:\ String)\:\ boolean\r\n
+comment9.params=
+comment9.target=java.util.ArrayList\ penumpangTotal()
+comment9.text=\r\n\ mengisi\ total\ penumpang\r\n
+numComments=11
