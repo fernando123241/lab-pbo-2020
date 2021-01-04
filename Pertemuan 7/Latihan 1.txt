@@ -1,0 +1,7 @@
+Soal :
+Apakah ada kaitan antara abstract class dengan inheritance? Apakah ada kaitan antara interface dan inheritance?
+
+Jawaban :
+Abstract dan inheritance berkaitan karena abstract class merupakan Class yang khusus dibuat untuk keperluan inheritance
+dan antara interface dan inheritance kurang berkaitan karena Inheritance adalah pewarisan atribut atau method dari kelas 
+induk kepada kelas turunanya, sedangkan Interface adalah kelas yang seluruh methodnya adalah abstract.
